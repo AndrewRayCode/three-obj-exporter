@@ -1,0 +1,31 @@
+{
+  "name": "three-obj-exporter",
+  "version": "0.0.1",
+  "description": "The Three.js OBJ Exporter, published to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "three": ">=0.73.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelvarWorld/three-obj-exporter.git"
+  },
+  "keywords": [
+    "three",
+    "obj",
+    "exporter"
+  ],
+  "author": {
+    "name": "Andrew Ray",
+    "email": "me@andrewray.me",
+    "url": "http://andrewray.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DelvarWorld/three-obj-exporter/issues"
+  },
+  "homepage": "https://github.com/DelvarWorld/three-obj-exporter"
+}
